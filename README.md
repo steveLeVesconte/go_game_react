@@ -1,3 +1,13 @@
+# go_game_react
+
+# An experiment/false start - may delete soon.  No value here for others.
+
+'
+'
+'
+'
+'
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
